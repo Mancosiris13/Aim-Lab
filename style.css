@@ -1,0 +1,19 @@
+#shape{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: red;
+    display: none;
+    position: relative;
+
+}
+
+#marginOfShape{
+    position: relative;
+    left: 700px;
+    top: 200;
+    width: 500px;
+    height: 500px;
+
+    
+}
